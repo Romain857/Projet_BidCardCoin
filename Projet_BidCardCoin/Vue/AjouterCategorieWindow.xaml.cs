@@ -6,14 +6,14 @@ using System.Windows.Data;
 using System.Linq;
 using System.Windows.Media;
 using System.Collections.ObjectModel;
-using ProjetBCC.Ctrl;
-using ProjetBCC.DAO;
-using ProjetBCC.DAL;
-using ProjetBCC.ORM;
-using ProjetBCC.Vue;
+using Projet_BidCardCoin.Ctrl;
+using Projet_BidCardCoin.DAO;
+using Projet_BidCardCoin.DAL;
+using Projet_BidCardCoin.ORM;
+using Projet_BidCardCoin.Vue;
 
 
-namespace ProjetBCC.Vue
+namespace Projet_BidCardCoin.Vue
 {
     /// <summary>
     /// Logique d'interaction pour AjouterCategorieWindow.xaml

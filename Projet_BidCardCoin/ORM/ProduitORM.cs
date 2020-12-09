@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections.ObjectModel;
-using ProjetBCC.Ctrl;
-using ProjetBCC.DAO;
+using Projet_BidCardCoin.Ctrl;
+using Projet_BidCardCoin.DAO;
 
-namespace ProjetBCC.ORM
+namespace Projet_BidCardCoin.ORM
 {
     public class ProduitORM
     {

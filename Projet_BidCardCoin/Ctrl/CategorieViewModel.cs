@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
-using ProjetBCC.ORM;
+using Projet_BidCardCoin.ORM;
 
-namespace ProjetBCC.Ctrl
+namespace Projet_BidCardCoin.Ctrl
 {
     public class CategorieViewModel : INotifyPropertyChanged
     {

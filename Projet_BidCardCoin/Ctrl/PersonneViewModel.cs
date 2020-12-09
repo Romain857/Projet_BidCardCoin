@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetBCC.Ctrl
+namespace Projet_BidCardCoin.Ctrl
 {
     public class PersonneViewModel
     {

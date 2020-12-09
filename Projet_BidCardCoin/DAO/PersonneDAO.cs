@@ -1,4 +1,4 @@
-﻿using ProjetBCC.DAL;
+﻿using Projet_BidCardCoin.DAL;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetBCC.DAO
+namespace Projet_BidCardCoin.DAO
 {
     public class PersonneDAO
     {

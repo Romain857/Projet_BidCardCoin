@@ -4,9 +4,9 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ProjetBCC.DAL;
+using Projet_BidCardCoin.DAL;
 
-namespace ProjetBCC.DAO
+namespace Projet_BidCardCoin.DAO
 {
     public class ProduitDAO
     {
