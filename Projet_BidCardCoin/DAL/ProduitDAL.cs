@@ -4,9 +4,9 @@ using System.ComponentModel;
 using System.Data;
 using System.Windows;
 using MySql.Data.MySqlClient;
-using ProjetBCC.DAO;
+using Projet_BidCardCoin.DAO;
 
-namespace ProjetBCC.DAL
+namespace Projet_BidCardCoin.DAL
 {
     public class ProduitDAL
     {

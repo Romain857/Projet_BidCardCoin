@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
-namespace ProjetBCC.DAL
+namespace Projet_BidCardCoin.DAL
 {
     class DALConnection
     {
